@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xec7E10207a688537A4e852b4dC3B2e143cc13636",
+  "SCAN_LINK": "https://etherscan.io/address/0xec7e10207a688537a4e852b4dc3b2e143cc13636",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ApePunks",
+  "SYMBOL": "GAPE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://stratosnft.io/collection/0xF7aBeAc1E7C4B85e33b51ed02c39F3b8D6C75809",
+  "SHOW_BACKGROUND": true
+}
